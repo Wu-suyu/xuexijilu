@@ -1,0 +1,116 @@
+[
+  {
+    "file": "0c7913ccce98f7dc9750684d037e21d0.jpg",
+    "is_card": true,
+    "confidence": 0.6667,
+    "uploaded": false,
+    "bounding_box": [
+      136,
+      117,
+      1040,
+      1410
+    ]
+  },
+  {
+    "file": "20260331.jpg",
+    "is_card": false,
+    "confidence": 0.24,
+    "uploaded": false
+  },
+  {
+    "file": "7afa8156-28b2-4717-8c13-ea9487ee9899.png",
+    "is_card": false,
+    "confidence": 0.21,
+    "uploaded": false
+  },
+  {
+    "file": "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=2743924751663369379&skey=@crypt_793f6b89_870fcc6bafa87f08594ca43ecd6b0897&mmweb_appid=wx_webfilehelper.jfif",
+    "is_card": false,
+    "confidence": 0.165,
+    "uploaded": false
+  },
+  {
+    "file": "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=2861806452186696687&skey=@crypt_793f6b89_870fcc6bafa87f08594ca43ecd6b0897&mmweb_appid=wx_webfilehelper.jfif",
+    "is_card": true,
+    "confidence": 0.6504,
+    "uploaded": false,
+    "bounding_box": [
+      0,
+      0,
+      3024,
+      4032
+    ]
+  },
+  {
+    "file": "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=411432076816349053&skey=@crypt_793f6b89_870fcc6bafa87f08594ca43ecd6b0897&mmweb_appid=wx_webfilehelper.jfif",
+    "is_card": false,
+    "confidence": 0.24,
+    "uploaded": false
+  },
+  {
+    "file": "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6300936727283797420&skey=@crypt_793f6b89_3cb4c237a34a1bc3bf0b49446f20397c&mmweb_appid=wx_webfilehelper.jfif",
+    "is_card": true,
+    "confidence": 0.7816,
+    "uploaded": false,
+    "bounding_box": [
+      0,
+      0,
+      3024,
+      4032
+    ]
+  },
+  {
+    "file": "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=8551281489581593305&skey=@crypt_793f6b89_870fcc6bafa87f08594ca43ecd6b0897&mmweb_appid=wx_webfilehelper.jfif",
+    "is_card": true,
+    "confidence": 0.8588,
+    "uploaded": false,
+    "bounding_box": [
+      768,
+      537,
+      1953,
+      2850
+    ]
+  },
+  {
+    "file": "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=8673659593731914065&skey=@crypt_793f6b89_870fcc6bafa87f08594ca43ecd6b0897&mmweb_appid=wx_webfilehelper.jfif",
+    "is_card": false,
+    "confidence": 0.165,
+    "uploaded": false
+  },
+  {
+    "file": "_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=8710795353895977216&skey=@crypt_793f6b89_870fcc6bafa87f08594ca43ecd6b0897&mmweb_appid=wx_webfilehelper.jfif",
+    "is_card": true,
+    "confidence": 0.8489,
+    "uploaded": false,
+    "bounding_box": [
+      701,
+      875,
+      1597,
+      2213
+    ]
+  },
+  {
+    "file": "微信图片_20260410143130_10_2.jpg",
+    "is_card": true,
+    "confidence": 0.6704,
+    "uploaded": false,
+    "bounding_box": [
+      185,
+      385,
+      2331,
+      3235
+    ]
+  },
+  {
+    "file": "微信图片_20260413091758_13_2.png",
+    "is_card": true,
+    "confidence": 0.7368,
+    "uploaded": false,
+    "bounding_box": [
+      90,
+      23,
+      606,
+      827
+    ]
+  }
+]
